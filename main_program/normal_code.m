@@ -1,4 +1,4 @@
-iRef = imread('midhun.jpg');
+iRef = imread('photo1.jpg');
 imshow(iRef);
 
 %% CODE BEGINS HERE %%
